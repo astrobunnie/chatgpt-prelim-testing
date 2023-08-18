@@ -1,0 +1,83 @@
+Student Management System
+0. Main Menu
+1. Add Student
+2. Delete Student
+3. Display Students
+4. Add Grade
+5. Change students capacity
+6. Exit
+Enter your choice: 5
+
+Enter new student capacity: 2
+Student capacity changed successfully.
+
+Student Management System
+0. Main Menu
+1. Add Student
+2. Delete Student
+3. Display Students
+4. Add Grade
+5. Change students capacity
+6. Exit
+Enter your choice: 1
+
+Enter student name: ABC
+Enter student ID: 123
+Enter student grade: 100
+Student added successfully.
+
+Student Management System
+0. Main Menu
+1. Add Student
+2. Delete Student
+3. Display Students
+4. Add Grade
+5. Change students capacity
+6. Exit
+Enter your choice: 1
+
+Enter student name: BCD
+Enter student ID: 234
+Enter student grade: 100
+Student added successfully.
+
+Student Management System
+0. Main Menu
+1. Add Student
+2. Delete Student
+3. Display Students
+4. Add Grade
+5. Change students capacity
+6. Exit
+Enter your choice: 1
+
+Enter student name: CDE
+Enter student ID: 345
+Enter student grade: 100
+Student added successfully.
+
+Student Management System
+0. Main Menu
+1. Add Student
+2. Delete Student
+3. Display Students
+4. Add Grade
+5. Change students capacity
+6. Exit
+Enter your choice: 3
+
+Student List
+Name    ID      Grade
+ABC     123     100
+BCD     234     100
+CDE     345     100
+
+Student Management System
+0. Main Menu
+1. Add Student
+2. Delete Student
+3. Display Students
+4. Add Grade
+5. Change students capacity
+6. Exit
+Enter your choice:

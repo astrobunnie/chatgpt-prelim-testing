@@ -1,0 +1,44 @@
+Student Management System
+0. Main Menu
+1. Add Student
+2. Delete Student
+3. Display Students
+4. Add Grade
+5. Change students capacity
+6. Exit
+Enter your choice: 1
+
+Enter student name: Christopher
+Enter student ID: 123456789101112131415
+Enter student grade: 100
+Student added successfully.
+
+Student Management System
+0. Main Menu
+1. Add Student
+2. Delete Student
+3. Display Students
+4. Add Grade
+5. Change students capacity
+6. Exit
+Enter your choice: 1
+
+Enter student name: Kristoff
+Enter student ID: 123
+Enter student grade: 1000000000000000000000000
+Student added successfully.
+
+Student Management System
+0. Main Menu
+1. Add Student
+2. Delete Student
+3. Display Students
+4. Add Grade
+5. Change students capacity
+6. Exit
+Enter your choice: 3
+
+Student List
+Name    ID      Grade
+Christopd       -1      100
+Kristoff{       123     -1

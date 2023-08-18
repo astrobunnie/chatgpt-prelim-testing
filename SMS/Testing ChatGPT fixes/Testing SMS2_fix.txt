@@ -1,0 +1,112 @@
+Testing SMS2_fix
+For Bug 1:
+
+Student Management System
+0. Main Menu
+1. Add Student
+2. Delete Student
+3. Display Students
+4. Add Grade
+5. Change students capacity
+6. Exit
+Enter your choice: one
+Student Management System
+0. Main Menu
+1. Add Student
+2. Delete Student
+3. Display Students
+4. Add Grade
+5. Change students capacity
+6. Exit
+Enter your choice:
+...
+...
+
+-------------------------------------------------------------
+For Bug 2:
+
+Student Management System
+0. Main Menu
+1. Add Student
+2. Delete Student
+3. Display Students
+4. Add Grade
+5. Change students capacity
+6. Exit
+Enter your choice: 1       
+
+Enter student name: Enter student ID:
+
+-------------------------------------------------------------
+For Bug 3:
+
+Student Management System
+0. Main Menu
+1. Add Student
+2. Delete Student
+3. Display Students
+4. Add Grade
+5. Change students capacity
+6. Exit
+Enter your choice: 5
+
+Enter new student capacity: 2
+Student capacity changed successfully.
+
+Student Management System
+0. Main Menu
+1. Add Student
+2. Delete Student
+3. Display Students
+4. Add Grade
+5. Change students capacity
+6. Exit
+Enter your choice: 1
+
+Enter student name: Enter student ID: 1233414123423413412341234
+Enter student grade: 1341234234124123
+Student added successfully.
+
+Student Management System
+0. Main Menu
+1. Add Student
+2. Delete Student
+3. Display Students
+4. Add Grade
+5. Change students capacity
+6. Exit
+Enter your choice: 1 
+
+Enter student name: Enter student ID: 412341234123412343241234123
+Enter student grade: 12342341234324234123
+Student added successfully.
+
+Student Management System
+0. Main Menu
+1. Add Student
+2. Delete Student
+3. Display Students
+4. Add Grade
+5. Change students capacity
+6. Exit
+Enter your choice: 1    
+
+Enter student name: Enter student ID: 3143243241324234134
+Enter student grade: 2343241234234234
+Student added successfully.
+
+Student Management System
+0. Main Menu
+1. Add Student
+2. Delete Student
+3. Display Students
+4. Add Grade
+5. Change students capacity
+6. Exit
+Enter your choice: 3
+
+Student List
+Name    ID      Grade
+        -1      1846929243
+        -1      -1
+        164054422       1566817146

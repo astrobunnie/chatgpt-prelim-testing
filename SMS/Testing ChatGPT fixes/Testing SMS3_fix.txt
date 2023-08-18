@@ -1,0 +1,123 @@
+Testing SMS3_fix
+For Bug 1:
+Student Management System   
+0. Main Menu
+1. Add Student
+2. Delete Student
+3. Display Students
+4. Add Grade
+5. Change students capacity 
+6. Exit
+Enter your choice: 1
+
+Enter student name: one
+Enter student ID (must be a positive integer): 
+
+-------------------------------------------------------------
+For Bug 2:
+Student Management System
+0. Main Menu
+1. Add Student
+2. Delete Student
+3. Display Students
+4. Add Grade
+5. Change students capacity
+6. Exit
+Enter your choice: 1
+
+Enter student name: christopherrrrr
+Enter student ID (must be a positive integer): 43471239461394861983742
+Invalid input. Enter a valid student ID: 341723946378194324
+Enter student grade (must be between 0 and 100): 4134234132423
+Invalid input. Enter a valid student grade: 100
+Student added successfully.
+
+Student Management System
+0. Main Menu
+1. Add Student
+2. Delete Student
+3. Display Students
+4. Add Grade
+5. Change students capacity
+6. Exit
+Enter your choice: 3
+
+Student List
+Name    ID      Grade
+christopcd     1662905748      100
+
+-------------------------------------------------------------
+For Bug 3:
+Student Management System
+0. Main Menu
+1. Add Student
+2. Delete Student
+3. Display Students
+4. Add Grade
+5. Change students capacity
+6. Exit
+Enter your choice: 5
+
+Enter new student capacity: 2
+Student capacity changed successfully.
+
+Student Management System
+0. Main Menu
+1. Add Student
+2. Delete Student
+3. Display Students
+4. Add Grade
+5. Change students capacity
+6. Exit
+Enter your choice: 1
+
+Enter student name: name1
+Enter student ID (must be a positive integer): 1
+Enter student grade (must be between 0 and 100): 100
+Student added successfully.
+
+Student Management System
+0. Main Menu
+1. Add Student
+2. Delete Student
+3. Display Students
+4. Add Grade
+5. Change students capacity
+6. Exit
+Enter your choice: 1
+
+Enter student name: name2
+Enter student ID (must be a positive integer): 2
+Enter student grade (must be between 0 and 100): 100
+Student added successfully.
+
+Student Management System
+0. Main Menu
+1. Add Student
+2. Delete Student
+3. Display Students
+4. Add Grade
+5. Change students capacity
+6. Exit
+Enter your choice: 1
+
+Enter student name: name3
+Enter student ID (must be a positive integer): 3
+Enter student grade (must be between 0 and 100): 100
+Student added successfully.
+
+Student Management System
+0. Main Menu
+1. Add Student
+2. Delete Student
+3. Display Students
+4. Add Grade
+5. Change students capacity
+6. Exit
+Enter your choice: 3
+
+Student List
+Name    ID      Grade
+name1   1       100
+name2   2       100
+name3   3       100

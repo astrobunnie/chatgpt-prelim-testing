@@ -1,0 +1,20 @@
+Enter your choice:
+Student Management System
+0. Main Menu
+1. Add Student
+2. Delete Student
+3. Display Students
+4. Add Grade
+5. Change students capacity
+6. Exit
+Enter your choice: one
+Student Management System
+0. Main Menu
+1. Add Student
+2. Delete Student
+3. Display Students
+4. Add Grade
+5. Change students capacity
+6. Exit
+Enter your choice:
+...
